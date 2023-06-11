@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**pablohenrique-dev/pablohenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋
 
-Here are some ideas to get you started:
+## Me chamo Pablo Henrique Dourado Souza  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente moro em Bom Jesus da Lapa - BA, tenho 23 anos e sou desenvolvedor Frontend.
+
+---
+
+## Stack atual
+
+- 🚀 Linguagem: `JavaScript`
+- 👨‍💻 Frontend: `HTML5`, `CSS3`, `Sass`, `JavaScript`, `React`, `Vue.Js`, `Ui Design`
+- 🔨 Ferramentas: `VsCode`, `Figma`
+- 📦 Versionamento de código: `Git & GitHub`
+
+---
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablohdsouza.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablohdsouza)
