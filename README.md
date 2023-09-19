@@ -10,7 +10,7 @@ Atualmente moro em Bom Jesus da Lapa - BA, tenho 23 anos e sou desenvolvedor Fro
 ## Stack atual
 
 - 🚀 Linguagem: `JavaScript`
-- 👨‍💻 Frontend: `HTML5`, `CSS3`, `Sass`, `JavaScript`, `React`, `Vue.Js`, `Ui Design`
+- 👨‍💻 Frontend: `HTML5`, `CSS3`, `JavaScript`, `Sass`, `Tailwind CSS`, `Styled Components`, `React`, `TypeScript`, `Ui Design`
 - 🔨 Ferramentas: `VsCode`, `Figma`
 - 📦 Versionamento de código: `Git & GitHub`
 
